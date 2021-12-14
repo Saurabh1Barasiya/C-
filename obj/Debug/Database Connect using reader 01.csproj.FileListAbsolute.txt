@@ -1,0 +1,7 @@
+G:\DOTNET PROG\Database Connect using reader 01\Database Connect using reader 01\bin\Debug\Database Connect using reader 01.exe.config
+G:\DOTNET PROG\Database Connect using reader 01\Database Connect using reader 01\bin\Debug\Database Connect using reader 01.exe
+G:\DOTNET PROG\Database Connect using reader 01\Database Connect using reader 01\bin\Debug\Database Connect using reader 01.pdb
+G:\DOTNET PROG\Database Connect using reader 01\Database Connect using reader 01\obj\Debug\Database Connect using reader 01.csproj.AssemblyReference.cache
+G:\DOTNET PROG\Database Connect using reader 01\Database Connect using reader 01\obj\Debug\Database Connect using reader 01.csproj.CoreCompileInputs.cache
+G:\DOTNET PROG\Database Connect using reader 01\Database Connect using reader 01\obj\Debug\Database Connect using reader 01.exe
+G:\DOTNET PROG\Database Connect using reader 01\Database Connect using reader 01\obj\Debug\Database Connect using reader 01.pdb
